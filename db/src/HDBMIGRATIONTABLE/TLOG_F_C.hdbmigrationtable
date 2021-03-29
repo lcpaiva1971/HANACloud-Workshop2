@@ -22,5 +22,5 @@ column table "TLOG_F_C" (
  "ItemSoldPrice" DECIMAL(10, 2),
  "ItemDiscount" DECIMAL(10, 2),
  "No.Item" INTEGER,
- "ItemTotalSoldPrice" DECIMAL(10, 2)
+ "ItemTotalSoldPrice" DECIMAL(10, 2) 
 )
